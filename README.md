@@ -6,6 +6,8 @@
 
 ## [YouTube](https://www.youtube.com/watch?v=X6Mtpk4jeVA)
 
+> Amazing Grace (My Chains Are Gone) | BYU Noteworthy (Chris Tomlin A Cappella Cover)
+
 <div align="center">
      <a href="https://www.youtube.com/watch?v=X6Mtpk4jeVA">
      <img 
