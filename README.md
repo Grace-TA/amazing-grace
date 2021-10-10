@@ -6,7 +6,12 @@
 
 ## [YouTube](https://www.youtube.com/watch?v=X6Mtpk4jeVA)
 
-![image](https://user-images.githubusercontent.com/89304181/136701452-f66a73a0-101b-4b54-97e5-dd107e7820f3.png)
+<div align="center">
+     <a href="https://www.youtube.com/watch?v=X6Mtpk4jeVA">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
+      width="50%" height="50%">
+    </div>
 
 
 
